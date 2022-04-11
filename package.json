@@ -1,0 +1,12 @@
+{
+    "name": "learning_package_json",
+    "author": "Shreesha",
+    "dependencies": {
+      "express": "4.17.3"
+    },
+    
+    "engines": {
+      "node": "17.7.2"
+    }
+    
+  }
